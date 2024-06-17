@@ -44,7 +44,7 @@ Esse projeto foi criado para finalidades acadêmicas para estudos, sem divulgaç
 ## 🔷 Colaboradores
 
 - Gustavo Henrique Morale
-- Jeferson Dela Coleta
+- [Jeferson Dela Coleta](https://github.com/JefersonDelaColeta)
 - [Mateus Bacce Kuhl](https://github.com/MateusKuhl)
 
 E um agradecimento especial pela ajuda à:
