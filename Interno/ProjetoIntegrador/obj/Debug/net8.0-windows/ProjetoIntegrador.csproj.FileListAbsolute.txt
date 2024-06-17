@@ -1,0 +1,68 @@
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.exe
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.deps.json
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.runtimeconfig.json
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.dll
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.pdb
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.MainForm.resources
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoI.E3B468F8.Up2Date
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.dll
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\refint\ProjetoIntegrador.dll
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.pdb
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ref\ProjetoIntegrador.dll
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormEstoque.resources
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormFuncionarios.resources
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormAgendamentos.resources
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormRelatorios.resources
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormAdicionarItem.resources
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormAdicionarFuncionario.resources
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormAdicionarAgendamento.resources
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormLogin.resources
+C:\Users\Usuario\source\repos\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormCadastrarLogin.resources
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.exe
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.deps.json
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.runtimeconfig.json
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.dll
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\ProjetoIntegrador.pdb
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.csproj.AssemblyReference.cache
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.MainForm.resources
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormAdicionarAgendamento.resources
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormAdicionarFuncionario.resources
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormAdicionarItem.resources
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormAgendamentos.resources
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormCadastrarLogin.resources
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormEstoque.resources
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormFuncionarios.resources
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormLogin.resources
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.FormRelatorios.resources
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.Properties.Resources.resources
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.csproj.GenerateResource.cache
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.AssemblyInfoInputs.cache
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.AssemblyInfo.cs
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.csproj.CoreCompileInputs.cache
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoI.E3B468F8.Up2Date
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.dll
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\refint\ProjetoIntegrador.dll
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.pdb
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ProjetoIntegrador.genruntimeconfig.cache
+C:\Development\Projeto Integrador I\ProjetoIntegradorFinal\ProjetoIntegrador\ProjetoIntegrador\obj\Debug\net8.0-windows\ref\ProjetoIntegrador.dll
