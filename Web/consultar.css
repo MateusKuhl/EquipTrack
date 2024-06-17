@@ -1,0 +1,143 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Inconsolata';
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(Content/Server.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+body>* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+.wrapper {
+    width: 1400px;
+    background: #1e2530;
+    border-radius: 10px;
+    box-shadow: 0 25px 70px rgba(0, 0, 0, .05);
+    overflow: hidden;
+}
+
+h1.title {
+    padding: 15px 0;
+    font-weight: bolder;
+    color: #a5b010;
+    text-align: center;
+    font-size: 80px;
+}
+
+h2.desc{
+    color: #FFF;
+    font-size: 24px;
+    text-align: center;
+    margin-top: -10px;
+}
+
+.form {
+    width: 700px;
+}
+
+.myform {
+    background: #1e2530;
+    padding: 25px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 25px
+}
+
+#acessorios{
+    border: 0;
+    outline: 0;
+    height: 50px;
+    background: #FFF;
+    width: 100%;
+    border-radius: 5px;
+    color: #1e2530;
+    font-weight: 700;
+    font-size: .9rem;
+    text-indent: 15px;
+    border: 2px solid transparent;
+    transition: border 250ms;
+}
+
+.myform label {
+    display: block;
+    color: #fff;
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.myform input {
+    border: 0;
+    outline: 0;
+    height: 50px;
+    background: #FFF;
+    width: 100%;
+    border-radius: 5px;
+    color: #1e2530;
+    font-weight: 700;
+    font-size: 20px;
+    text-indent: 15px;
+    border: 2px solid transparent;
+    transition: border 250ms;
+}
+
+option{
+    font-size: 20px;
+    font-weight: bolder;
+    color: #1e2530;
+}
+
+.full-width {
+    grid-column: -1 / 1
+}
+
+.button button {
+    border: 0;
+    outline: 0;
+    width: 120px;
+    height: 50px;
+    border-radius: 50px;
+    color: #FFF;
+    font-weight: bolder;
+    font-size: 20px;
+    cursor: pointer;
+    background: linear-gradient(356deg, #a5b010, rgb(54, 255, 118) 100%);
+}
+
+.button button:hover {
+    background: #a5b010;
+}
+
+#register{
+    margin-left: 200px;
+}
+
+.return{
+    height: 670px;
+    width: 650px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 25px 70px rgba(0, 0, 0, .05);
+    overflow: hidden;
+    margin-left: 720px;
+    margin-top: -685px;
+    margin-bottom: 35px;
+}
+
