@@ -25,19 +25,19 @@ Esse projeto foi criado para finalidades acadêmicas para estudos, sem divulgaç
 
 - C#
 - HTML / CSS
-- PHP / Jquery 
 - BootStrap
+- PHP / Jquery 
 - MS SQL Server
 - Xampp
 
 
 ## ⚙️ Configuração do Ambiente
 
-- Necessário o uso de Windows 10/11, com as tecnologias apresentadas em suas versões mais recentes e atualizadas;
+- Necessário o uso do Windows 10/11, com as tecnologias apresentadas em suas versões mais recentes e atualizadas;
 - PHP e drivers mais atualizados instalados no ambiente;
 - Criação do banco de dados pelo query disponibilizado, de preferência no MS SQL Server;
-- O uso do Interno deve ser rodado a partir do Visual Studio 2022, onde pode ser clonado, compilado e executado;
-- O uso do WEB deve ser rodado a partir de um localhost, de preferência o Xampp em sua versão mais recente;
+- O uso do Interno deve ser rodado a partir do Visual Studio 2022, onde pode ser clonado, compilado e executado, adaptando a conexão com o banco de dados disponibilizado;
+- O uso do WEB deve ser rodado a partir de um localhost, de preferência o Xampp, em sua versão mais recente;
 - Após configurado o projeto na pasta htdocs, pode ser acessado por sua localhost em um navegador de escolha (Exemplo: https://localhost:5000/Web)
 
 
